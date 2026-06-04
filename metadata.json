@@ -1,0 +1,8 @@
+{
+  "name": "Personal Financial Tracker",
+  "description": "A elegant and comprehensive personal financial tracker app with beautiful UI, visual charts, budget indicators, and search & filtering capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
